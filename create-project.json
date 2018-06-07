@@ -6,7 +6,7 @@
   },
   "artifacts": {
     "type": "S3",
-    "location": "doa17-{ENVIRONMENT_NAME}",
+    "location": "doa17-pinedo98",
     "packaging": "ZIP",
     "name": "WebAppOutputArtifact.zip"
   },
